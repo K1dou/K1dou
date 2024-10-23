@@ -1,16 +1,15 @@
 ## Hello there! I'm Marcelo Henrique :+1:
 
-<!--
-**K1dou/K1dou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 I am a Backend Developer specialized in Java and passionate about building scalable microservices and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Skills:
+- **Languages:** Java, SQL
+- **Frameworks:** Spring Boot, Spring Cloud, Hibernate
+- **Microservices:** Spring Cloud, Docker, Kubernetes
+- **Databases:** MySQL, PostgreSQL
+- **DevOps:** AWS, GitLab CI/CD, Docker
+- **Version Control:** Git, GitHub
+- **Tools:** Maven
+
