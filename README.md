@@ -3,7 +3,7 @@
 
 💻 I am a Backend Developer specialized in Java and passionate about building scalable microservices and APIs.
 
-![My Avatar](https://i.pinimg.com/control/564x/a5/33/2b/a5332b64260d4b4c6cb9aab2e45a13d4.jpg)
+
 
 
 ### Skills:
