@@ -38,10 +38,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K1dou&layout=compact&theme=dark)
 
 ## 📂 Featured Projects  
-- 🔥 **Authentication System with Spring Boot & JWT** — [Repository](#)  
-- 📊 **Sales Dashboard with Power BI** — [Repository](#)  
-- 🌍 **Weather Forecast App with Angular & API Integration** — [Repository](#)  
-- 🛠 **CI/CD Pipeline with Docker & GitHub Actions** — [Repository](#)
+- 🔥 **Authentication System with Spring Boot & JWT** —   
+- 🌍 **Weather Forecast App with Angular & API Integration**   
+- 🛠 **CI/CD Pipeline with Docker & GitHub Actions** 
 
 ## 📚 Currently Exploring  
 - ☁️ **Serverless Architectures on AWS**  
