@@ -35,8 +35,8 @@
 - **UI/UX Design:** Figma  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K1dou&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K1dou&layout=compact&theme=dark)
 
 ## 📂 Featured Projects  
 - 🔥 **Authentication System with Spring Boot & JWT** — [Repository](#)  
