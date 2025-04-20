@@ -1,3 +1,5 @@
+![Banner](https://via.placeholder.com/1200x400?text=Welcome+to+my+GitHub+Profile)
+
 # Hello, I'm Marcelo! 🚀
 
 ## About Me  
@@ -9,8 +11,8 @@
 ## 🛠 Skills & Technologies
 
 ### 🖥️ Backend Development  
-- **Languages:** Java, SQL  
-- **Frameworks:** Spring Boot, Spring Cloud, Hibernate, JPA  
+- **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+- **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), Hibernate  
 - **Microservices:** API Gateway, Feign Client, Spring Cloud Config  
 - **Build & Dependency Management:** Maven, Gradle  
 
@@ -35,6 +37,7 @@
 - **UI/UX Design:** Figma  
 
 ## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K1dou&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K1dou&layout=compact&theme=dark)
 
 ## 📂 Featured Projects  
@@ -46,3 +49,8 @@
 - ☁️ **Serverless Architectures on AWS**  
 - 🏗 **Advanced Kubernetes Orchestration**  
 - 🔐 **Application Security Best Practices**
+
+## 📩 Contato  
+- **LinkedIn:** [Marcelo's LinkedIn](https://www.linkedin.com/in/marcelo-henrique-290a37202/)  
+- **Portfólio:** [Meu Portfólio](https://www.kidou.tech/)  
+- **E-mail:** [hique1276@gmail.com](hique1276@gmail.com)  
