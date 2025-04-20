@@ -1,4 +1,4 @@
-![Banner](![image](https://github.com/user-attachments/assets/3c44c2e0-4d94-4da9-9d5c-93cb12395261)
+![Banner](https://via.placeholder.com/1200x400?text=Bem-vindo+ao+meu+perfil+do+GitHub)
 
 # Hello, I'm Marcelo! 🚀
 
