@@ -12,7 +12,10 @@
 - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
 - **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white), Hibernate  
 - **Microservices:** API Gateway, Feign Client, Spring Cloud Config  
-- **Build & Dependency Management:** Maven, Gradle  
+- **Build & Dependency Management:** Maven, Gradle
+
+### 🎨 Frontend Development
+- **Languages & Frameworks:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### ☁️ DevOps & Cloud  
 - **Cloud Providers:** AWS  
